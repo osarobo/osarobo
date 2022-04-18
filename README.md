@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @osarobo
 - 👀 I’m interested in family, children, woodwork, photography, sight seeing, and traveling.
+- 👨‍👧 I'm a father of a caring daughter who turned 10 on Easter Sunday!
 - 🌱 I’m currently learning Introduction to Database Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @osarobo on Slack or email via osarobo@github.com
